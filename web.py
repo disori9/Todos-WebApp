@@ -7,8 +7,8 @@ def add_todo():
      todos.append(input_todo)
      functions.write_file(todos)
 
-st.title("My Todo App")
-st.subheader("These are my todos")
+st.title("My Love's Todo App")
+st.subheader("These are my baby's todos")
 
 # sadly, i do not know streamlit that well yet so i am unable to implement
 # showing the completed_todo functions
